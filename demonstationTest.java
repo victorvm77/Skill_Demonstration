@@ -4,6 +4,6 @@ import org.junit.*;
 public class demonstationTest {
     @Test
     public void Mult(){
-        assertEquals(4, skill_demonstration.times(2, 2));
+        assertEquals(3, skill_demonstration.times(2, 2));
     }
 }
